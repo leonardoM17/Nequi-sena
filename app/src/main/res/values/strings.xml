@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Nequi</string>
+    <string name="txtAyuda">Ayuda</string>
+    <string name="txtBy">By</string>
+    <string name="btnEntrar">Entra</string>
+    <string name="txtEscribeClave">Escribe tu clave</string>
+    <string name="txtDuda">No dudamos que seas tu...Pero es mejor confirmar ;)</string>
+    <string name="txtOlvido">¿Se te olvido?</string>
+    <string name="btnIngresar">Entrar</string>
+    <string name="txtNumero"></string>
+    <string name="title_activity_inicio2">inicio2</string>
+    <string name="txtHola">Hola</string>
+    <string name="txtDisponible">Disponible</string>
+    <string name="txtTotal"></string>
+    <string name="txtUsuario">Usuario</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="previous"></string>
+    <string name="lorem_ipsum"></string>
+    <string name="first_fragment_label"></string>
+    <string name="second_fragment_label"></string>
+    <string name="volver">Atras</string>
+
+    <!-- Pagina de inicio -->
+    <string name="btnInicio">Inicio</string>
+    <string name="btnMovimientos">Movimientos</string>
+    <string name="btnServicios">Servicios</string>
+
+    <!-- Pagina de movimientos -->
+    <string name="txtMovimientos">Mis movimientos</string>
+
+
+    <!-- recargas -->
+    <string name="tiruloRecarga">Opciones para recargar:</string>
+
+    <!-- servicios -->
+    <string name="tiruloServicios">Servicios</string>
+
+
+    <!-- pide -->
+    <string name="tiruloPide">Pide plata</string>
+
+    <!-- envia -->
+    <string name="tiruloEnvia">Opciones para enviar</string>
+
+    <!-- qr -->
+    <string name="tiruloQR">Codigo QR</string>
+
+    <!-- saca -->
+    <string name="tiruloSaca">Escribe este numero en el cajero para sacar plata.</string>
+    <string name="randomCodeTextView"></string>
+
+
+</resources>

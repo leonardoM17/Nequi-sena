@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- res/menu/menu_floating.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_option1"
+        android:title="+Servicios"
+        android:icon="@drawable/saca" />
+    <item
+        android:id="@+id/action_option2"
+        android:title="Saca"
+        android:icon="@drawable/flechai" />
+    <item
+        android:id="@+id/action_option3"
+        android:title="Pide"
+        android:icon="@drawable/flechad" />
+    <item
+        android:id="@+id/action_option4"
+        android:title="Envia"
+        android:icon="@drawable/saca" />
+    <item
+        android:id="@+id/action_option5"
+        android:title="Codigo QR"
+        android:icon="@drawable/saca" />
+    <item
+        android:id="@+id/action_option6"
+        android:title="Recarga Nequi"
+        android:icon="@drawable/saca" />
+</menu>
